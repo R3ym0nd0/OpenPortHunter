@@ -56,7 +56,7 @@ git clone https://github.com/R3ym0nd0/OpenPortHunter.git
 cd IPnetSolver
 
 # Install required modules
-pip install colorama 
+pip install whois colorama 
 
 # Run OpenPortHunter
 python OpenPortHunter.py
