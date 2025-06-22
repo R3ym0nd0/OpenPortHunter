@@ -2,25 +2,23 @@
 
 OpenPortHunter is a Python-based tool for scanning ports on a specified target IP address or domain name. It allows users to check for open and closed ports, gather WHOIS information, and understand the common protocols associated with each port.
 
+---
+
 ## Features 🔥🚀
 - Port scanning for specific, well-known, registered, ephemeral, or all ports.
 - WHOIS information retrieval for domain names.
 - Displays common protocols associated with open ports.
 - User-friendly terminal interface.
 
-## Installation 📂 
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/R3ym0nd0/Python-Resources.git
-   cd Python-Resources/MyToolBox/OpenPortHunter/OpenPortHunter (1.2)
+---
 
 ## What's New ✨
 - **Type Hints Added:** Integrated Python type hints for better code readability and easier maintenance.
 - **Improved Visuals:** Fixed the plain white-and-black color scheme by integrating colorama for vibrant, color-coded text.
-  
-## Snapshot 📷
+
+---
+
+## Screenshots 📷
 
 ### Entering Target 🎯
 ![Intro](https://github.com/user-attachments/assets/982dcfce-df97-47c5-bfa7-160411b503d1)
@@ -46,7 +44,25 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
 ### Open Ports Result 📊
 ![OpenPortsResult](https://github.com/user-attachments/assets/d59fa711-ba54-44f2-9de4-32b38d344fc8)
 
+---
+
+## 🔧 How to Run
+
+```bash
+⚠️ Make sure you are using Python 3.3+
+
+# Clone the repository
+git clone https://github.com/R3ym0nd0/OpenPortHunter.git
+cd IPnetSolver
+
+# Install required modules
+pip install colorama 
+
+# Run OpenPortHunter
+python OpenPortHunter.py
+```
+---
+
 # ⚠️ Important Notice ⚠️
 
 The OpenPorHunter Tool is for **educational purposes and authorized security assessment only**. **Unauthorized use** of this tool **may violate local laws and regulation**. Please ensure you have permission before conducting any testing.
-
