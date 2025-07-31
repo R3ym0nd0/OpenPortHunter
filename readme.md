@@ -18,6 +18,16 @@ OpenPortHunter is a Python-based tool for scanning ports on a specified target I
 
 ---
 
+## 📜 Previous Versions
+
+Looking for older versions of OpenPortHunter before v1.2?
+
+🔗 [Click here to browse the old versions inside the Toolbox Repo](https://github.com/R3ym0nd0/Python-Resources/tree/main/MyToolBox/OpenPortHunter)
+
+> These were stored in a MyToolBox repository before this tool got its own dedicated repo.
+
+---
+
 ## Screenshots 📷
 
 ### Entering Target 🎯
